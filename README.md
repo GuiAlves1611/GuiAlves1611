@@ -31,6 +31,13 @@ Meu nome é Guilherme Alves, tenho 21 anos e sou entusiasta de dados, tecnologia
   width='30px'
   style='padding-right: 10px;'
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  <img 
+  align='left'
+  alt='apachespark'
+  title='apachespark'
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
 <img 
   align='left'
   alt='matplotlib'
