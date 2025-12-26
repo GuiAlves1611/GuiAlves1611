@@ -49,6 +49,13 @@ I have hands-on experience with **Python and its core data science libraries**, 
   width='30px'
   style='padding-right: 10px;'
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/> 
+  <img 
+  align='left'
+  alt='streamlit'
+  title='streamlit'
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/> 
 <img 
   align='left'
   alt='git'
