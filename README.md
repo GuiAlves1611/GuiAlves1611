@@ -1,4 +1,4 @@
-**`Cientista de Dados`**
+**`Data Scientist`**
 
 I am a **Data Science student and aspiring Data Scientist**, with a strong focus on **Machine Learning, data analysis, and data-driven decision-making**.
 
