@@ -1,6 +1,10 @@
 **`Cientista de Dados`**
 
-Meu nome é Guilherme Alves, tenho 21 anos e sou entusiasta de dados, tecnologia e aprendizado constante. Estou estudando e trabalhando em projetos de Ciência de Dados, com ênfase em Machine Learning e tomada de decisões baseada em dados. Gosto de compreender o problema, analisar os dados e criar modelos que sejam aplicáveis na prática, sempre priorizando a organização, a clareza e métricas eficazes.
+Sou estudante e profissional em formação em **Ciência de Dados**, com foco em **Machine Learning, análise de dados e tomada de decisões orientadas por dados**.
+
+Trabalho no desenvolvimento de **projetos de Data Science de ponta a ponta**, desde a compreensão do problema e exploração dos dados (EDA), até a construção, avaliação e interpretação de modelos preditivos, sempre priorizando **organização, clareza e métricas adequadas**.
+
+Tenho experiência prática com **Python e suas principais bibliotecas para dados**, além de interesse contínuo em aprimorar habilidades técnicas e transformar dados em soluções aplicáveis a problemas reais de negócio.
 
 ## 🛠️ Ferramentas & Tecnologias 
 <img 
