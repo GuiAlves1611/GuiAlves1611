@@ -1,10 +1,10 @@
 **`Cientista de Dados`**
 
-Sou estudante e profissional em formação em **Ciência de Dados**, com foco em **Machine Learning, análise de dados e tomada de decisões orientadas por dados**.
+I am a **Data Science student and aspiring Data Scientist**, with a strong focus on **Machine Learning, data analysis, and data-driven decision-making**.
 
-Trabalho no desenvolvimento de **projetos de Data Science de ponta a ponta**, desde a compreensão do problema e exploração dos dados (EDA), até a construção, avaliação e interpretação de modelos preditivos, sempre priorizando **organização, clareza e métricas adequadas**.
+I develop **end-to-end Data Science projects**, from problem understanding and exploratory data analysis (EDA) to building, evaluating, and interpreting predictive models, always prioritizing **clarity, organization, and appropriate performance metrics**.
 
-Tenho experiência prática com **Python e suas principais bibliotecas para dados**, além de interesse contínuo em aprimorar habilidades técnicas e transformar dados em soluções aplicáveis a problemas reais de negócio.
+I have hands-on experience with **Python and its core data science libraries**, and I am continuously improving my skills to transform data into **practical and impactful solutions**.
 
 ## 🛠️ Ferramentas & Tecnologias 
 <img 
